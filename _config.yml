@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.2669173
+color:
+  saturation: 1
+  lightness: 0.209765
+  brandStrength: 1
+  brandColors:
+    - '#000000'
+    - '#FFFFFD'
+    - '#D6B997'
+    - '#76796E'
+    - '#353E45'
+  rhythmicContrast: 0.2135378
+name: AnitaSam
