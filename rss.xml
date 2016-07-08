@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AnitaSam]]></title>
+        <description><![CDATA[AnitaSam]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jul 2016 00:40:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[“The Chief” in Squamish! Made it to the top!]]></title>
+            <description><![CDATA[<article><h1>“The Chief” in Squamish! Made it to the top!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6526bd64-f72a-4596-be9d-4b87a58fbfb9.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6526bd64-f72a-4596-be9d-4b87a58fbfb9.jpg</link>
+            <guid isPermaLink="false">eaaeb932-c26f-4bed-a617-4b95a486194b</guid>
+            <pubDate>Fri, 08 Jul 2016 00:40:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
