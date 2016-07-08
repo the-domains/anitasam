@@ -1,8 +1,20 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1197637
 color:
   saturation: 1
+  brandStrength: 0.3055854
   lightness: 1
-  brandStrength: 1
   brandColors:
     - '#000000'
     - '#FFFFFD'
@@ -10,5 +22,5 @@ color:
     - '#76796E'
     - '#353E45'
   rhythmicContrast: 1
-typography_spectrum: 0.2669173
+layout_spectrum: 1
 name: AnitaSam
